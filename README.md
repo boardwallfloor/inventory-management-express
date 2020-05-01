@@ -1,7 +1,7 @@
 # inventory-management-express
 Simple inventory management
 
-#Installing
+# Installing
 ```
 npm install
 node populateddb.js
